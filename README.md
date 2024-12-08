@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maksym Poskannyi
 ========================================================================================================================================
 
-Frontend Developer
+Full-Stack Web Developer
 ------------------
 
-Passionate and continuously evolving Frontend Developer with a love for creating innovative web and desktop projects using technologies like JavaScript, React.js, Node.js, and more. Adept at remote development and dedicated to pushing the boundaries of what is possible in front-end development.
+With expertise in JavaScript, TypeScript, React.js, Node.js, Express, MongoDB, and Firebase. Skilled in creating responsive UIs, RESTful APIs, and scalable solutions. Experienced in remote development and optimizing high-load applications. Continuously evolving to deliver exceptional results.
 
 * 🌍  I'm based in Kyiv Capital of Ukraine
 * 🖥️  See my portfolio at [My Portfolio](http://maksym-poskanny-portfolio-react.onrender.com/)
