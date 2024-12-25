@@ -9,7 +9,7 @@ With expertise in JavaScript, TypeScript, React.js, Node.js, Express, MongoDB, a
 * 🌍  I'm based in Kyiv Capital of Ukraine
 * 🖥️  See my portfolio at [My Portfolio](http://maksym-poskanny-portfolio-react.onrender.com/)
 * ✉️  You can contact me at [max2000pl@gmail.com](mailto:max2000pl@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Math
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman, Tell Everyone
 
