@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maksym Poskannyi
 ========================================================================================================================================
 
-Full-Stack Web Developer
+Full-Stack Developer
 ------------------
 
 With expertise in JavaScript, TypeScript, React.js, Node.js, Express, MongoDB, and Firebase. Skilled in creating responsive UIs, RESTful APIs, and scalable solutions. Experienced in remote development and optimizing high-load applications. Continuously evolving to deliver exceptional results.
@@ -9,7 +9,7 @@ With expertise in JavaScript, TypeScript, React.js, Node.js, Express, MongoDB, a
 * 🌍  I'm based in Kyiv Capital of Ukraine
 * 🖥️  See my portfolio at [My Portfolio](https://portfolio-react-5b7d3.web.app)
 * ✉️  You can contact me at [max2000pl@gmail.com](mailto:max2000pl@gmail.com)
-* 🧠  I'm learning Math
+* 🧠  I'm learning Swift
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman, Tell Everyone
 
